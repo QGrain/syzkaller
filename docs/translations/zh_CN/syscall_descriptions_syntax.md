@@ -1,4 +1,8 @@
-> [!WARNING]  
+> [!WARNING]\
+> **请注意，这是社区驱动的官方 syzkaller 文档翻译。当前文档的最新版本（英文版）可在 [docs/syscall_descriptions_syntax.md](/docs/syscall_descriptions_syntax.md) 中找到。**
+
+> [!WARNING]
+>
 > **请注意，这是社区驱动的官方 syzkaller 文档翻译。当前文档的最新版本（英文版）可在 [docs/syscall_descriptions_syntax.md](/docs/syscall_descriptions_syntax.md) 中找到。**
 
 # Syscall description language
